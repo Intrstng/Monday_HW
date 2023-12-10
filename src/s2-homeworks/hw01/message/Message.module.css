@@ -1,5 +1,8 @@
-.message {
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap');
 
+.message {
+    width: 1140px;
+    margin: 0 auto;
 }
 
 .imageAndText {
@@ -7,11 +10,19 @@
 }
 
 .imageAndText img {
-
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+    background: lightgray -16.029px 0px / 150.121% 100% no-repeat;
 }
 
 .text {
-
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
 }
 
 .text:after {
@@ -19,7 +30,12 @@
 }
 
 .name {
-
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }
 
 .messageText {
@@ -27,5 +43,10 @@
 }
 
 .time {
-
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
 }

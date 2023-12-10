@@ -1,8 +1,8 @@
 {
-  "name": "hws2",
-  "homepage": "http://IgnatZakalinsky.github.io/hws2",
+  "name": "hws",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Intrstng.github.io/Tuesday_HW",
   "dependencies": {
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
